@@ -193,3 +193,6 @@ Function create_bars_graphic initialized at 2021-09-08 21:24:44.206921
 Function sort_array initialized at 2021-09-08 21:26:17.875169 
 Function define_color initialized at 2021-09-08 21:26:17.876170 
 Function create_bars_graphic initialized at 2021-09-08 21:26:17.877171 
+Function sort_array initialized at 2021-09-09 13:40:36.824402 
+Function define_color initialized at 2021-09-09 13:40:36.825402 
+Function create_bars_graphic initialized at 2021-09-09 13:40:36.826405 
